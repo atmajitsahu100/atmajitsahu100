@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atmajitsahu100
+- 👋 Hi, I’m @atmajit_sahoo
 - 👀 I’m interested in web developing
 - 🌱 I’m currently mastering frontend and backend of developing
 - 🎓 I'm currently pursuing MCA from NIT allahabad
